@@ -71,3 +71,13 @@
 	
 	</script>
 </html>
+
+	// TP 07/07/2020
+	
+Console.log("Début du programme");
+	let x = "hello world"
+		while (x <=10) {
+			console.log(x);
+				x++;
+}
+console.log(Fin du programme");
